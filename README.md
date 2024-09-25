@@ -3,15 +3,13 @@
 
 # Eric Ortega Rodriguez's Mini Project 4
 
-## ☑️ Requirements (Mini Project 2):
-1. Python script using Pandas for descriptive statistics
-2. Read a dataset (CSV or Excel)
-3. Generate summary statistics (mean, median, standard deviation)
-4. Create at least one data visualization
-
-## ☑️ Deliverables:
+## ☑️ Requirements (Mini Project 4):
 1. Set up a Gitlab Actions workflow
 2. Test across at least 3 different Python versions
+
+## ☑️ Deliverables:
+1. Gitlab/Github repository
+2. Link to successful Gitlab/Github Actions Matrix run
 
 ## ☑️ The Data Being Used
 The data being utilized is coming from a GitHub database which can be found [here](https://raw.githubusercontent.com/fivethirtyeight/data/master/drug-use-by-age/drug-use-by-age.csv) 
