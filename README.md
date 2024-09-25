@@ -1,7 +1,7 @@
 
 [![CI](https://github.com/nogibjj/Eric_Ortega_Rodriguez_Mini_Project_2/actions/workflows/hello.yml/badge.svg)](https://github.com/nogibjj/Eric_Ortega_Rodriguez_Mini_Project_2/actions/workflows/hello.yml)
 
-# Eric Ortega Rodriguez's Pandas Descriptive Statistics Script
+# Eric Ortega Rodriguez's Mini Project 4
 
 ## ☑️ Requirements (Mini Project 2):
 1. Python script using Pandas for descriptive statistics
@@ -10,9 +10,8 @@
 4. Create at least one data visualization
 
 ## ☑️ Deliverables:
-1. Python script 
-2. CI/CD with badge
-3. Generated summary report (PDF or markdown) via CI/CD for extra credit or make your own PDF or MD file and push it 
+1. Set up a Gitlab Actions workflow
+2. Test across at least 3 different Python versions
 
 ## ☑️ The Data Being Used
 The data being utilized is coming from a GitHub database which can be found [here](https://raw.githubusercontent.com/fivethirtyeight/data/master/drug-use-by-age/drug-use-by-age.csv) 
