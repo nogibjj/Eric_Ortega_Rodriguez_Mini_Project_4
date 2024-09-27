@@ -1,5 +1,5 @@
 
-[![CI](https://github.com/nogibjj/Eric_Ortega_Rodriguez_Mini_Project_2/actions/workflows/hello.yml/badge.svg)](https://github.com/nogibjj/Eric_Ortega_Rodriguez_Mini_Project_2/actions/workflows/hello.yml)
+[![CICD](https://github.com/nogibjj/Eric_Ortega_Rodriguez_Mini_Project_4/actions/workflows/hello.yml/badge.svg)](https://github.com/nogibjj/Eric_Ortega_Rodriguez_Mini_Project_4/actions/workflows/hello.yml)
 
 # Eric Ortega Rodriguez's Mini Project 4
 
